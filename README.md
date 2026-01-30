@@ -1,2 +1,7 @@
 # JSONPlaceholder-API-Security-Analysis
-API Security Risk Analysis on JSONPlaceholder (Read-only, Educational)
+**Cyber Security Task 3 (2026)**  
+**By:** Future Interns  
+**Role:** Security Analyst (Awareness & Analysis)
+
+---
+
